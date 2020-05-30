@@ -18,7 +18,6 @@ def setup():
     radius=height/2
     
 def draw():
-    radius=height/2
     center_x=width/2
     center_y=height/2
      
