@@ -21,7 +21,7 @@ def draw():
     center_x=width/2
     center_y=height/2
      
-    global Total_Degrees
+    global Total_Degrees,radius
     
     beginShape()
     # beginShape() begins recording vertices for a shape and endShape() stops recording.
